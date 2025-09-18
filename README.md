@@ -1,4 +1,4 @@
-# Wordcab-Pii
+# Wordcab-PII
 
 A collaboration between [Wordcab](https://wordcab.com) and [Knowledgator](https://www.knowledgator.com/) to produce production-grade PII, PHI, and PCI detection for open use.
 
